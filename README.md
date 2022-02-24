@@ -4,7 +4,7 @@
 * Auto-updating feature to grab the latest workflow releases
 
 ## Usage 
-![Usage](https://imgur.com/YqBwimk)
+![Usage](https://imgur.com/YqBwimk.png)
 
 
 ## Credits
