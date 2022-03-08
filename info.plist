@@ -58,7 +58,7 @@
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>chromy</string>
+				<string>cromy</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -212,7 +212,10 @@ fi</string>
 	<key>readme</key>
 	<string>This workflow uses python in order to launch different chrome profiles.
 
-Self-updating feature to grab the latest release</string>
+Self-updating feature to grab the latest release
+
+# 1.1
+- Change keyword to cromy</string>
 	<key>uidata</key>
 	<dict>
 		<key>02F4B94E-9109-4309-977E-68AFB5657603</key>
@@ -244,7 +247,7 @@ Self-updating feature to grab the latest release</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/darsh12/alfred-chrome-switcher</string>
 </dict>

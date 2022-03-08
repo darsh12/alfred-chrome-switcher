@@ -1,0 +1,13 @@
+{
+  "alfredworkflow" : {
+    "category" : "Productivity",
+    "readme" : "This workflow uses python in order to launch different chrome profiles.\n\nSelf-updating feature to grab the latest release\n\n# 1.1\n- Change keyword to cromy",
+    "createdby" : "darsh12",
+    "downloadurl" : "",
+    "version" : "1.1",
+    "bundleid" : "com.darsh12.chromeswitcher",
+    "description" : "Switch chrome profiles",
+    "name" : "Chrome Switcher",
+    "webaddress" : "https:\/\/github.com\/darsh12\/alfred-chrome-switcher"
+  }
+}
